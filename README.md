@@ -1,2 +1,2 @@
-# G7-cafe
+# small-database
 first project
