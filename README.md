@@ -1,2 +1,2 @@
 # small-database
-first project
+first project using Python and some basic SQL commands
